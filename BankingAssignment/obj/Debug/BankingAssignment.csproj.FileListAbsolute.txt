@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\bin\Debug\BankingAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\bin\Debug\BankingAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\bin\Debug\BankingAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\obj\Debug\BankingAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\obj\Debug\BankingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\obj\Debug\BankingAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-12 Assignment part-1\BankingAssignment\BankingAssignment\obj\Debug\BankingAssignment.pdb
